@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+h1, h2 {
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+.hero {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding: 100px;
+
+    /* border-width: 10px;
+    border-color:  green;
+    border-style: solid; */
+    border-top: 10px solid green;
+
+}
+
+.hero a {
+    color: white
+}
+
+.big-text {
+    font-size: 1.3em;
+}
+
+.red-text {
+    color: red;
+}
